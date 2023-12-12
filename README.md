@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="img/programmer.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dean-Jansen&label=Profile%20views&color=0e75b6&style=flat" alt="Dean-Jansen" /> </p>
 
-- 🌱 I’m currently learning **React, Next Js**
+- 🌱 I’m currently learning **React, Next Js, Nux JS**
 
 - 💬 Ask me about **Wordpress, PHP, NodeJS, Python, Power BI, Machine Learning, Data Analytics**
 
