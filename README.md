@@ -5,9 +5,9 @@
 <img align="right" alt="Coding" width="400" src="img/programmer.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dean-Jansen&label=Profile%20views&color=0e75b6&style=flat" alt="Dean-Jansen" /> </p>
 
-- 🌱 I’m currently learning **React, Next Js, Nux JS**
+- 🌱 I’m currently learning **everything about the Laravel ecosystem**
 
-- 💬 Ask me about **Wordpress, PHP, NodeJS, Python, Power BI, Machine Learning, Data Analytics**
+- 💬 Ask me about **Wordpress, PHP, Python, Power BI, Machine Learning, Data Analytics**
 
 - 📫 How to reach me **dean@royalweb.co.za**
 
