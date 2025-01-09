@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Dean Jansen</h1>
 <h3 align="center">I'm passionate about two main things: leveraging data to solve complex problems and building impactful solutions. I enjoy solving complex business and software problems</h3>
-<img align="right" alt="Coding" width="400" src="img/programmer.gif" >
+
+<div style="display:block">
 
 - 🌱 I’m currently learning **everything about the Laravel ecosystem**
 
@@ -11,6 +12,9 @@
 - 📫 How to reach me **dean@royalweb.co.za**
 
 - 📄 You can find my company here [www.gexin.co.za](https://gexin.co.za)
+
+  <img align="right" alt="Coding" style="max-width:150px" src="img/programmer.gif" >
+</div>
 
 <br>
 <hr>
