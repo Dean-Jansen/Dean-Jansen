@@ -8,7 +8,6 @@
 
 <div style="display:block">
 
-<div style="float:left; width: calc(100% - 210px);">
   - 🌱 I’m currently learning **everything about the Laravel ecosystem**
   
   - 💬 Ask me about **Wordpress, PHP, Python, Power BI, Machine Learning, Data Analytics**
@@ -18,12 +17,6 @@
   - 📄 You can find my company here [www.gexin.co.za](https://gexin.co.za)  
 </div>
 
-<div style="float:right;max-width:200px">
-  <img align="right" alt="Coding" style="max-width:100%" src="img/programmer.gif" >
-</div>
-
-  
-</div>
 
 <br>
 <hr>
@@ -34,6 +27,10 @@
 <hr>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dean-Jansen&show_icons=true&locale=en&layout=compact" alt="Dean-Jansen" /></p>
+
+<br>
+
+<img align="right" alt="Coding" style="max-width:100%" src="img/programmer.gif" >
 
 
 
