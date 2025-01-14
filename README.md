@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dean-Jansen&label=Profile%20views&color=0e75b6&style=flat" alt="Dean-Jansen" /> </p>
 
 <h1 align="center">Hi 👋, I'm Dean Jansen</h1>
-<h3 align="center">I'm passionate about two main things: leveraging data to solve complex problems and building impactful solutions. I enjoy solving complex business and software problems</h3>
+<h3 align="center">I'm passionate about two main things: leveraging data to solve complex problems and building impactful solutions. I enjoy solving complex business and software problems, especially when it involves utilizing AI technologies to uncover hidden insights and enhance decision-making.</h3>
 
 <hr>
 <br>
